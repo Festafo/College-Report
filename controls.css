@@ -1,0 +1,109 @@
+.txt{
+    color: #046834;
+    text-align: center;
+}
+
+#westhill {
+    font-weight: bolder;
+    margin-left: 50px;
+    word-spacing: 20px;
+    letter-spacing: 10px;
+}
+
+#firstline {
+    text-align: left;
+}
+
+#secondline, #thirdline {
+    font-size: 20px;
+}
+
+#fourthline {
+    font-weight: bold;
+}
+
+.onetwo {
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+#two {
+    margin-left: 30px;
+}
+
+table, td, tr, th {
+    border: 1px solid #046834;
+    border-width: 2px;
+}
+
+th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.updown {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    width: 35px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.subject {
+    width: 160px;
+}
+
+.col-md-12 {
+    margin-top: 20px;
+
+}
+
+.personal {
+    text-align: center;
+    color: #046834;
+}
+
+.col-md-4 {
+    border: 1px solid black;
+
+}
+
+.lower {
+    width: 100%;
+    font-size: small;
+    line-height: 17px;
+}
+
+.paras {
+    line-height: 10px;
+    font-size: small;
+    width: 100%;
+}
+
+#rating {
+    text-align: center;
+}
+
+#bold {
+    text-align: center;
+    font: bold;
+}
+
+.lastsection {
+    color: #046834;
+    margin-left: 15px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+#stamp {
+    text-align: right;
+    text-decoration: overline;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+
+.all {
+    width: auto;
+    margin: 0px 15%;
+}
